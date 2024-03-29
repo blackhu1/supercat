@@ -1,0 +1,180 @@
+Uri: https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap
+File Name: C:\Downloaded Web Sites\www.supercatsol.vip\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiAyp8kv8JHgFVrJJLmE3tF.ttf
+File Name: C:\Downloaded Web Sites\www.supercatsol.vip\s\poppins\v21\pxiAyp8kv8JHgFVrJJLmE3tF.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLBT5V1s.ttf
+File Name: C:\Downloaded Web Sites\www.supercatsol.vip\s\poppins\v21\pxiByp8kv8JHgFVrLBT5V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLCz7V1s.ttf
+File Name: C:\Downloaded Web Sites\www.supercatsol.vip\s\poppins\v21\pxiByp8kv8JHgFVrLCz7V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLDD4V1s.ttf
+File Name: C:\Downloaded Web Sites\www.supercatsol.vip\s\poppins\v21\pxiByp8kv8JHgFVrLDD4V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLDz8V1s.ttf
+File Name: C:\Downloaded Web Sites\www.supercatsol.vip\s\poppins\v21\pxiByp8kv8JHgFVrLDz8V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLEj6V1s.ttf
+File Name: C:\Downloaded Web Sites\www.supercatsol.vip\s\poppins\v21\pxiByp8kv8JHgFVrLEj6V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLFj_V1s.ttf
+File Name: C:\Downloaded Web Sites\www.supercatsol.vip\s\poppins\v21\pxiByp8kv8JHgFVrLFj_V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLGT9V1s.ttf
+File Name: C:\Downloaded Web Sites\www.supercatsol.vip\s\poppins\v21\pxiByp8kv8JHgFVrLGT9V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiDyp8kv8JHgFVrJJLm111lEA.ttf
+File Name: C:\Downloaded Web Sites\www.supercatsol.vip\s\poppins\v21\pxiDyp8kv8JHgFVrJJLm111lEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiDyp8kv8JHgFVrJJLm21llEA.ttf
+File Name: C:\Downloaded Web Sites\www.supercatsol.vip\s\poppins\v21\pxiDyp8kv8JHgFVrJJLm21llEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiDyp8kv8JHgFVrJJLm81xlEA.ttf
+File Name: C:\Downloaded Web Sites\www.supercatsol.vip\s\poppins\v21\pxiDyp8kv8JHgFVrJJLm81xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiDyp8kv8JHgFVrJJLmg1hlEA.ttf
+File Name: C:\Downloaded Web Sites\www.supercatsol.vip\s\poppins\v21\pxiDyp8kv8JHgFVrJJLmg1hlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiDyp8kv8JHgFVrJJLmr19lEA.ttf
+File Name: C:\Downloaded Web Sites\www.supercatsol.vip\s\poppins\v21\pxiDyp8kv8JHgFVrJJLmr19lEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiDyp8kv8JHgFVrJJLmv1plEA.ttf
+File Name: C:\Downloaded Web Sites\www.supercatsol.vip\s\poppins\v21\pxiDyp8kv8JHgFVrJJLmv1plEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiDyp8kv8JHgFVrJJLmy15lEA.ttf
+File Name: C:\Downloaded Web Sites\www.supercatsol.vip\s\poppins\v21\pxiDyp8kv8JHgFVrJJLmy15lEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiEyp8kv8JHgFVrFJA.ttf
+File Name: C:\Downloaded Web Sites\www.supercatsol.vip\s\poppins\v21\pxiEyp8kv8JHgFVrFJA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiGyp8kv8JHgFVrJJLedw.ttf
+File Name: C:\Downloaded Web Sites\www.supercatsol.vip\s\poppins\v21\pxiGyp8kv8JHgFVrJJLedw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiGyp8kv8JHgFVrLPTedw.ttf
+File Name: C:\Downloaded Web Sites\www.supercatsol.vip\s\poppins\v21\pxiGyp8kv8JHgFVrLPTedw.ttf
+Content Type: font/ttf
+
+Uri: https://www.supercatsol.vip/
+File Name: C:\Downloaded Web Sites\www.supercatsol.vip\index.htm
+Content Type: text/html
+
+Uri: https://www.supercatsol.vip/css/animate.min.css
+File Name: C:\Downloaded Web Sites\www.supercatsol.vip\css\animate.min.css
+Content Type: text/css
+
+Uri: https://www.supercatsol.vip/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\www.supercatsol.vip\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://www.supercatsol.vip/css/meme.css
+File Name: C:\Downloaded Web Sites\www.supercatsol.vip\css\meme.css
+Content Type: text/css
+
+Uri: https://www.supercatsol.vip/css/style.css
+File Name: C:\Downloaded Web Sites\www.supercatsol.vip\css\style.css
+Content Type: text/css
+
+Uri: https://www.supercatsol.vip/css/swiper-bundle.min.css
+File Name: C:\Downloaded Web Sites\www.supercatsol.vip\css\swiper-bundle.min.css
+Content Type: text/css
+
+Uri: https://www.supercatsol.vip/fonts/batfont.ttf
+File Name: C:\Downloaded Web Sites\www.supercatsol.vip\fonts\batfont.ttf
+Content Type: font/ttf
+
+Uri: https://www.supercatsol.vip/images/banner.jpg
+File Name: C:\Downloaded Web Sites\www.supercatsol.vip\images\banner.jpg
+Content Type: image/jpeg
+
+Uri: https://www.supercatsol.vip/images/catsignal.png
+File Name: C:\Downloaded Web Sites\www.supercatsol.vip\images\catsignal.png
+Content Type: image/png
+
+Uri: https://www.supercatsol.vip/images/catsignal_1.png
+File Name: C:\Downloaded Web Sites\www.supercatsol.vip\images\catsignal_1.png
+Content Type: image/png
+
+Uri: https://www.supercatsol.vip/images/logo.png
+File Name: C:\Downloaded Web Sites\www.supercatsol.vip\images\logo.png
+Content Type: image/png
+
+Uri: https://www.supercatsol.vip/images/mask.png
+File Name: C:\Downloaded Web Sites\www.supercatsol.vip\images\mask.png
+Content Type: image/png
+
+Uri: https://www.supercatsol.vip/images/meme1.jpg
+File Name: C:\Downloaded Web Sites\www.supercatsol.vip\images\meme1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.supercatsol.vip/images/meme2.jpg
+File Name: C:\Downloaded Web Sites\www.supercatsol.vip\images\meme2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.supercatsol.vip/images/meme3.jpg
+File Name: C:\Downloaded Web Sites\www.supercatsol.vip\images\meme3.jpg
+Content Type: image/jpeg
+
+Uri: https://www.supercatsol.vip/images/meme4.jpg
+File Name: C:\Downloaded Web Sites\www.supercatsol.vip\images\meme4.jpg
+Content Type: image/jpeg
+
+Uri: https://www.supercatsol.vip/images/meme5.jpg
+File Name: C:\Downloaded Web Sites\www.supercatsol.vip\images\meme5.jpg
+Content Type: image/jpeg
+
+Uri: https://www.supercatsol.vip/images/meme6.jpg
+File Name: C:\Downloaded Web Sites\www.supercatsol.vip\images\meme6.jpg
+Content Type: image/jpeg
+
+Uri: https://www.supercatsol.vip/images/telegram.png
+File Name: C:\Downloaded Web Sites\www.supercatsol.vip\images\telegram.png
+Content Type: image/png
+
+Uri: https://www.supercatsol.vip/images/text.png
+File Name: C:\Downloaded Web Sites\www.supercatsol.vip\images\text.png
+Content Type: image/png
+
+Uri: https://www.supercatsol.vip/images/text2.png
+File Name: C:\Downloaded Web Sites\www.supercatsol.vip\images\text2.png
+Content Type: image/png
+
+Uri: https://www.supercatsol.vip/images/twitter.png
+File Name: C:\Downloaded Web Sites\www.supercatsol.vip\images\twitter.png
+Content Type: image/png
+
+Uri: https://www.supercatsol.vip/js/bootstrap.bundle.min.js
+File Name: C:\Downloaded Web Sites\www.supercatsol.vip\js\bootstrap.bundle.min.js
+Content Type: application/javascript
+
+Uri: https://www.supercatsol.vip/js/fabric.js
+File Name: C:\Downloaded Web Sites\www.supercatsol.vip\js\fabric.js
+Content Type: application/javascript
+
+Uri: https://www.supercatsol.vip/js/script.js
+File Name: C:\Downloaded Web Sites\www.supercatsol.vip\js\script.js
+Content Type: application/javascript
+
+Uri: https://www.supercatsol.vip/js/swiper-bundle.min.js
+File Name: C:\Downloaded Web Sites\www.supercatsol.vip\js\swiper-bundle.min.js
+Content Type: application/javascript
+
